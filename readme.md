@@ -1,4 +1,4 @@
-# First repo for Bioinformatics
+# First repository for Bioinformatics
 ## Heading 2
 ### Heading 3
 #### Heading 4
